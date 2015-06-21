@@ -1,0 +1,27 @@
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes.dex : \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub$Proxy.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/kde/necessitas/ministro/IMinistro.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub$Proxy.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/kde/necessitas/ministro/IMinistroCallback.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/qtproject/example/helloAndroid/BuildConfig.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/qtproject/example/helloAndroid/R$array.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/qtproject/example/helloAndroid/R$attr.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/qtproject/example/helloAndroid/R$layout.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/qtproject/example/helloAndroid/R$string.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/qtproject/example/helloAndroid/R.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$1.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$2.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3$1$1.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3$1.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$4.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$5.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$6.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtActivity.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtApplication$InvokeResult.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtApplication.class \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/dexedLibs/QtAndroid-bundled-3a0527e2fad507f8e9500cdd93c2d65d.jar \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/dexedLibs/QtAndroidBearer-bundled-4cda4ef386fe25a5cf6041a96649fc5a.jar \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/dexedLibs/QtAndroidAccessibility-bundled-858c20ca186f8675580653ecb28b01b1.jar \

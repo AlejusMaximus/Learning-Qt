@@ -1,0 +1,24 @@
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/gen/org/qtproject/example/helloAndroid/R.java \
+ : /Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/layout/splash.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values/libs.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-de/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-el/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-es/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-et/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-fa/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-fr/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-id/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-it/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-ja/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-ms/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-nb/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-nl/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-pl/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-pt-rBR/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-ro/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-rs/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-ru/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-zh-rCN/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/res/values-zh-rTW/strings.xml \
+/Users/aleixpm/QtWorkspace/build-helloAndroid-Android_for_armeabi_v7a_GCC_4_9_Qt_5_4_1-Release/android-build/bin/AndroidManifest.xml \
